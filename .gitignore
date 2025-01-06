@@ -1,0 +1,11 @@
+__pycache__
+*.ply
+*.blend
+*.obj
+.DS_Store
+*.npy
+*.png
+*.exr
+*.mtl
+*.hdr
+*.jpg
